@@ -1,9 +1,7 @@
-## Smart City (My Problem) Simulation
+## Smart City (Smart Street Light Pole) Simulation
 
-(remove: Define what category  (or combination of categories) of simulation needed to solve this problem.)
+Discrete-event based simulation would be used to solve this problem based on the various inputs and outputs that would need to be assessed.
 
-(remove: Why did you choose this simulation type?)
+I chose this simulation type to be used in the simulation of the smart street pole light based on the behaviors over time creating the need for various response types.
 
-(remove: Roughly, how would you conduct the simulation to produce the results from your specification?)
-
-(remove: images say 1000 words for you...)
+The simulation would be conducted with individuals utilizing the emergency call system, responding to the concealed placement speaker system, measure the response of the light pole based on the perception forecasts, and enhance the environmental sensors to ensure the responses are effective.
