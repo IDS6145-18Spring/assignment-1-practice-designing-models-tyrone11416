@@ -7,6 +7,6 @@ def __init__(self, n, cr, ds, es):
             self.controlled recepticle = cr
             self.digital sign = ds
             self.emergency call station = es
-            self.height = 7.0  # start as baby string bean
+            self.height = 7.0
             self.width = 0.5
             pole.__init__(self, cr, ds, es)

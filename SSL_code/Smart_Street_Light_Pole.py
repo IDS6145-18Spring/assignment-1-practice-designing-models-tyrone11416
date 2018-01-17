@@ -12,6 +12,6 @@ def __init__(self, n, sl, , wt, cps, wd, ds, cr, es, ev):
             self.emergency call station = es
             self.water detection = wd
             self.enviromental sensors = ev
-            self.height = 10.0  # start as baby string bean
+            self.height = 10.0
             self.width = 1.0
             smart street light pole.__init__(self, n, sl, wt, cps, wd, ds, cr, es, ev)

@@ -7,6 +7,6 @@ def __init__(self, sl, wt, cps):
             self.smart light = sl
             self.wireless tranceiver = wt
             self.cooncealed placement speaker = cps
-            self.height = 2.0  # start as baby string bean
+            self.height = 2.0
             self.width = 2.0
             light housing.__init__(self, sl, wt, cps)
