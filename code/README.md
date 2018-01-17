@@ -128,8 +128,19 @@
             self.percipitation = p
             self.humidity = h
 
-(remove:  Starting coding framework for the (insert your exact problem here.)
-(remove: learn to describe your code a bit, link the files and provide a brief explanation what each file is doing for your model and simulation)
 
+[Smart Street Light Pole Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Smart_Street_Light_Pole.py)
+[Light Housing Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Light_Housing.py)
 [Light Pole Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Pole.py)
+[Light Base Assembly Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Light_Base_Assembly.py)
+[Concealed Placement Speaker Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Concealed_Placement_Speaker.py)
+[Wireless Transceiver Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Wireless_Transceiver.py)
+[Smart LED Light Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Smart_Light.py)
+[Digital Street Sign Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Digital_Street_Sign.py)
+[Controlled Receptacle Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Controlled_Recptacle.py)
+[Emergency Call Station Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Emergency_Call_Station.py)
+[Enviromental Sensors Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Enviromental_Sensors.py)
+[Water Detection Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Water_Detection.py)
+
+
 
