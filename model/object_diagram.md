@@ -6,4 +6,4 @@
 
 
 
-![Object Diagram](../images/object diagram.png)
+![object diagram](C:\Users\tyron\Documents\GitHub\assignment-1-practice-designing-models-tyrone11416\images\object diagram.png)
