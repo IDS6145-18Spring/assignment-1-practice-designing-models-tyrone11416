@@ -17,11 +17,11 @@ A **smart city** is an urban area that uses different types of electronic data c
 It is extremely critical to design and implement such a smart street light post that includes Concealed Placement Speakers (CPS) for the purpose of playing music through the streets, announcing important events, and sounding alarms.   It is important because of the ability to utilize the digital street sign to display such things as the street name, event, parking direction, and evacuation directions.  The most import aspect of the smart street light pole is the concealed image sensor providing security monitoring, pedestrian awareness, as well as the aspect of homeland security.  Solving and implementing this problem/solution is based on the funds for production of such a enhanced street light pole, determining the space between poles on each street, network capability to manage the possible thousands of street light poles.
 
 > 1. Provides real time broadcast and alert notification system
-
+>
 > 2. Provides real time emergency response call system
-
+>
 > 3. Enhances the street sign capabilities with the digital capabilities
-
+>
 > 4. Smart LED lights adapt to the sun light exposure maximizing energy use
 
 
@@ -46,11 +46,11 @@ A smart street light pole will increase civilian awareness in a given area, cont
 
 
 > * [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-
+>
 > * [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
-
+>
 > * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-
+>
 > * [**Agent / User case**](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
 
 
