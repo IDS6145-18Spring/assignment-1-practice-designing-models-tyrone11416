@@ -6,4 +6,4 @@ Smart Street Light Poles include Concealed Placement Speakers (CPS) for the purp
 
 
 
-![object diagram](../diagrams/object diagram.png)
+![diagrams](../diagrams/object-diagram.png)
