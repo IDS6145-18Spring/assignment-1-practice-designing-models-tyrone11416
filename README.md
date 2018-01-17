@@ -12,7 +12,7 @@
 
 A **smart city** is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
 
-![Image of Smart City](images/smartcity.png)
+![Image of Smart City](diagrams/smart-city.png)
 
 
 
