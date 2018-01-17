@@ -58,7 +58,7 @@ The simulation aspect of the design is critical to test the actual products with
 
 ## Smart City (Smart Street Light Poles) Model
 
-[**Smart Street Light Pole Code**](code/SSL_code/Concealed_Placement_Speaker.py) - Starting coding framework for the (insert your exact problem here.)
+[**Smart Street Light Pole Code**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
 
 
 
