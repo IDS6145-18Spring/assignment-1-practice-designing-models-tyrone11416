@@ -130,3 +130,6 @@
 
 (remove:  Starting coding framework for the (insert your exact problem here.)
 (remove: learn to describe your code a bit, link the files and provide a brief explanation what each file is doing for your model and simulation)
+
+[Light Pole Code](https://github.com/IDS6145-18Spring/assignment-1-practice-designing-models-tyrone11416/blob/master/SSL_code/Pole.py)
+
