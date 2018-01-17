@@ -1,4 +1,4 @@
-## Smart City (My Problem) Model
+## Smart City (Smart Street Light Pole) Model
 
 	class smart street light pole ():
     	'''This is a smart street light pole'''
