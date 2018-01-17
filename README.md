@@ -36,14 +36,7 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 
 
-## Smart City (My Problem) Model
-
-
-
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
-
+## Smart City (Smart Street Light Poles) Model
 
 
 * [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
@@ -56,17 +49,16 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 
 
-## Smart City (My Problem) Simulation
+## Smart City (Smart Street Light Poles) Simulation
 
 
 
-(remove: for part 3 add two to three sentences here and link the [**(Smart Street Light Pole Analysis)**](analysis/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+The simulation aspect of the design is critical to test the actual products within the pole.  The water detection, environmental sensors, and the concealed placement speaker system are essential.  The smart street light pole will enhance the city environment by providing essential resources at the fingertips of the end users. [**(Smart Street Light Pole Analysis)**](analysis/README.md)
 
 
 
 
-
-## Smart City (My Problem) Model
+## Smart City (Smart Street Light Poles) Model
 
 [**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
 
