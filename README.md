@@ -1,8 +1,8 @@
-# Assignment1 - Practice Designing Models
+# IDS6145 Simulation Techniques Assignment1 - Designing Models
 
 
 
-> * Participant name: (Tyrone Trapnel)
+> * Designers name: (Tyrone Trapnel)
 > * Project Title: (Smart Street Light Poles)
 > * Jan 18, 2018
 
@@ -35,7 +35,7 @@ The history of the smart street light pole could potentially originates form sev
 
 
 
-(A smart street light pole will increase civilian awareness in a given area, control possible traffic choke points within a given area, increase emergency response times by implementing more alarm locations, and increase the homeland security monitoring capabilities with thousands of enhanced camera systems.  This form of hypothesis helps us to identify the required inputs, outputs and functions of the street light poles.  The inputs are the needs of the civilians with a given area, traffic patterns, heavy traffic times, types of criminal activity, times of crime, and the types of music to sooth the area reducing the levels of stress. The outputs are very simple based on the abilities of the street light pole such as emergency touch response, concealed speakers, digital street signs with the ability to change adapting to the situation.  The functions of the street light pole are to enhance the monitoring of the given area.)
+A smart street light pole will increase civilian awareness in a given area, control possible traffic choke points within a given area, increase emergency response times by implementing more alarm locations, and increase the homeland security monitoring capabilities with thousands of enhanced camera systems.  This form of hypothesis helps us to identify the required inputs, outputs and functions of the street light poles.  The inputs are the needs of the civilians with a given area, traffic patterns, heavy traffic times, types of criminal activity, times of crime, and the types of music to sooth the area reducing the levels of stress. The outputs are very simple based on the abilities of the street light pole such as emergency touch response, concealed speakers, digital street signs with the ability to change adapting to the situation.  The functions of the street light pole are to enhance the monitoring of the given area.
 
 
 
@@ -48,7 +48,7 @@ The history of the smart street light pole could potentially originates form sev
 
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
 
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+* [**Agent / User case**](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
 
 
 
