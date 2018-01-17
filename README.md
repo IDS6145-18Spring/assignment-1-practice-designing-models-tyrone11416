@@ -3,10 +3,8 @@
 
 
 > * Participant name: (Tyrone Trapnel)
-
 > * Project Title: (Smart Street Light Poles)
-
-> * Jan 14, 2018
+> * Jan 18, 2018
 
 ## General Introduction
 
@@ -16,15 +14,15 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 
 
-(It is extremely critical to design and implement such a smart street light post that includes Concealed Placement Speakers (CPS) for the purpose of playing music through the streets, announcing important events, and sounding alarms.   It is important because of the ability to utilize the digital street sign to display such things as the street name, event, parking direction, and evacuation directions.  The most import aspect of the smart street light pole is the concealed image sensor providing security monitoring, pedestrian awareness, as well as the aspect of homeland security.   Solving and implementing this problem/solution is based on the funds for production of such a enhanced street light pole, determining the space between poles on each street, network capability to manage the possible thousands of street light poles.)
+It is extremely critical to design and implement such a smart street light post that includes Concealed Placement Speakers (CPS) for the purpose of playing music through the streets, announcing important events, and sounding alarms.   It is important because of the ability to utilize the digital street sign to display such things as the street name, event, parking direction, and evacuation directions.  The most import aspect of the smart street light pole is the concealed image sensor providing security monitoring, pedestrian awareness, as well as the aspect of homeland security.  Solving and implementing this problem/solution is based on the funds for production of such a enhanced street light pole, determining the space between poles on each street, network capability to manage the possible thousands of street light poles.
 
 
 
-(From the research conducted I have not detected any real-world implementations only with the aspect of speaking crossing walk poles.  I believe the identification of a city that would be the test subject for the smart street lights needs to be identified.)
+From the research conducted I have not detected any real-world implementations only with the aspect of speaking crossing walk poles.  I believe the identification of a city that would be the test subject for the smart street lights needs to be identified.
 
 
 
-(The history of the smart street light pole could potentially originates form several aspects such as warning systems, road signs identifying parking and evacuation routes, homeland security monitoring systems enhancing the security of the city, and the push to talk emergency system.  There is a proposed solution that I have found from the city of San Francisco at http://www.citymart.com/previous-challenges-content/2014/8/6/san-francisco-vision-zero-for-traffic-safety.  San Francisco has identified the need for these smart street light poles however the funding and implementation has to be outlined.)
+The history of the smart street light pole could potentially originates form several aspects such as warning systems, road signs identifying parking and evacuation routes, homeland security monitoring systems enhancing the security of the city, and the push to talk emergency system.  There is a proposed solution that I have found from the city of San Francisco at http://www.citymart.com/previous-challenges-content/2014/8/6/san-francisco-vision-zero-for-traffic-safety.  San Francisco has identified the need for these smart street light poles however the funding and implementation has to be outlined.
 
 
 
@@ -60,7 +58,7 @@ The simulation aspect of the design is critical to test the actual products with
 
 ## Smart City (Smart Street Light Poles) Model
 
-[**Smart Street Light Pole Code**](code/SSL Code) - Starting coding framework for the (insert your exact problem here.)
+[**Smart Street Light Pole Code**](code/SSL_code/Concealed_Placement_Speaker.py) - Starting coding framework for the (insert your exact problem here.)
 
 
 
