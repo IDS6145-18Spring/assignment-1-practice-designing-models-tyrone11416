@@ -14,7 +14,7 @@
             self.emergency call station = es
             self.water detection = wd
             self.enviromental sensors = ev
-            self.height = 10.0  # start as baby string bean
+            self.height = 10.0  
             self.width = 1.0
             smart street light pole.__init__(self, n, sl, wt, cps, wd, ds, cr, es, ev)
 
@@ -27,7 +27,7 @@
             self.smart light = sl
             self.wireless tranceiver = wt
 			self.cooncealed placement speaker = cps
-			self.height = 2.0  # start as baby string bean
+			self.height = 2.0  
             self.width = 2.0
             light housing.__init__(self, sl, wt, cps)
 
@@ -40,7 +40,7 @@
 			self.controlled recepticle = cr
             self.digital sign = ds
             self.emergency call station = es
-            self.height = 7.0  # start as baby string bean
+            self.height = 7.0  
             self.width = 0.5
 			pole.__init__(self, cr, ds, es)
 
@@ -51,7 +51,7 @@
         	'''Intializes the light base assembly'''
 			self.water detection = wd
 			self.enviromental sensors = ev
-            self.height = 1.0  # start as baby string bean
+            self.height = 1.0  
             self.width = 1.0
             light base assembly.__init__(self, wd, ev)
 
