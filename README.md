@@ -6,8 +6,8 @@
 > * Project Title: Smart Street Light Poles
 > * Submission Date: Jan 18, 2018
 
-## General Introduction
-
+### General Introduction
+- - -
 A **smart city** is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
 
 ![Image of Smart City](diagrams/smart-city.png)
@@ -38,7 +38,7 @@ The history of the smart street light pole could potentially originates form sev
 
 
 
-## Requirements (Experimental Design)
+### Requirements (Experimental Design)
 
 
 
@@ -46,7 +46,7 @@ A smart street light pole will increase civilian awareness in a given area, cont
 
 
 
-## Smart City (Smart Street Light Poles) Model
+### Smart City (Smart Street Light Poles) Model
 
 
 
@@ -61,7 +61,7 @@ A smart street light pole will increase civilian awareness in a given area, cont
 
 - - -
 
-## Smart City (Smart Street Light Poles) Simulation
+### Smart City (Smart Street Light Poles) Simulation
 
 
 
@@ -70,13 +70,13 @@ The simulation aspect of the design is critical to test the actual products with
 
 
 
-## Smart City (Smart Street Light Poles) Model
+### Smart City (Smart Street Light Poles) Model
 
-[**Smart Street Light Pole Code**](code/README.md) - Coding Framework 
+>[**Smart Street Light Pole Code**](code/README.md) - Coding Framework 
 
 
 
-## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
+### **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 
-Here [**POTS Object/Class Diagram**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) 
+>[**POTS Object/Class Diagram**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) 
 
