@@ -6,3 +6,5 @@ class digital street sign():
             self.street name = sn
             self.emergency route = er
             self.event parking = ep
+            self.starttime = time.clock()
+            self.endtime = time.clock ()
