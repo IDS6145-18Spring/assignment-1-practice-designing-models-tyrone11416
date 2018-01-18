@@ -98,6 +98,8 @@
             self.street name = sn
             self.emergency route = er
             self.event parking = ep
+            self.starttime = time.clock()
+            self.endtime = time.clock ()
 
 	class emergency call station():
     	'''This is the emergency call station button'''
